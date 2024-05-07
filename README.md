@@ -4,4 +4,4 @@ cURL should be on any Linux system by default but you might need to install jq.
 
 - [scrape-html.sh](scrape-html.sh), is not really important but you can still download all the html from every category that the forum has.
 - [scrape-json.sh](scrape-json.sh), is the way you can get how many pages there are so you can put it into the download-json.sh.
-- [download-json.sh)(download-json.sh), is the most important part of the thing because it downloads all the json files. From the json you can make out all the forum posts.
+- [download-json.sh](download-json.sh), is the most important part of the thing because it downloads all the json files. From the json you can make out all the forum posts.
